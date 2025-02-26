@@ -38,7 +38,7 @@ We leverage the latest technologies and frameworks to ensure our software is inn
 
 Over the years, we have collaborated with industry-leading companies that trust our expertise to drive their digital initiatives. Some of our valued partners include:
 
--  [**DiAng Tech**](https://www.diang.tech){target="_blank"}
+-  <a href="https://www.diang.tech" target=_blank>**DiAng Tech**</a>
 
 These partnerships reflect our commitment to excellence and our ability to deliver measurable results.
 
@@ -48,7 +48,7 @@ These partnerships reflect our commitment to excellence and our ability to deliv
 
 Interested in working with us or have any questions? Reach out through our digital channels:
 
-- **Email:** [valegusllc@gmail.com](mailto:valegusllc@gmail.com){target="_blank"}.
+- **Email:** [valegusllc@gmail.com](mailto:valegusllc@gmail.com).
 
 [//]: # (- **Website:** [www.valegus.com]&#40;https://www.valegus.com&#41;)
 [//]: # (- **LinkedIn:** [Valegus on LinkedIn]&#40;https://www.linkedin.com/company/valegus&#41;)
@@ -64,4 +64,4 @@ This project is distributed under the [MIT License](LICENSE).
 Thank you for visiting our repository! At Valegus, we are committed to leveraging technology to create innovative solutions that transform businesses and drive growth. We look forward to collaborating and building a brighter digital future together.
 
 ---
-⌨️with ❤️by [Valegus](https://github.com/valegus){target="_blank"} 😊
+⌨️with ❤️by <a href="https://github.com/valegus" target=_blank>**Valegus**</a>😊
