@@ -38,7 +38,7 @@ We leverage the latest technologies and frameworks to ensure our software is inn
 
 Over the years, we have collaborated with industry-leading companies that trust our expertise to drive their digital initiatives. Some of our valued partners include:
 
--  <a href="https://www.diang.tech" target=_blank>**DiAng Tech**</a>
+-  <a href="https://www.diang.tech" target="_blank">**DiAng Tech**</a>
 
 These partnerships reflect our commitment to excellence and our ability to deliver measurable results.
 
@@ -64,4 +64,4 @@ This project is distributed under the [MIT License](LICENSE).
 Thank you for visiting our repository! At Valegus, we are committed to leveraging technology to create innovative solutions that transform businesses and drive growth. We look forward to collaborating and building a brighter digital future together.
 
 ---
-⌨️with ❤️by <a href="https://github.com/valegus" target=_blank>**Valegus**</a>😊
+⌨️with ❤️by <a href="https://github.com/valegus" target="_blank">**Valegus**</a>😊
